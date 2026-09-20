@@ -1,0 +1,36 @@
+[
+    {"id":1,"x":20,"y":25,"z":10,"initial_energy":100,"residual_energy":100},
+    {"id":2,"x":45,"y":35,"z":15,"initial_energy":100,"residual_energy":100},
+    {"id":3,"x":70,"y":20,"z":12,"initial_energy":100,"residual_energy":100},
+    {"id":4,"x":95,"y":40,"z":18,"initial_energy":100,"residual_energy":100},
+    {"id":5,"x":120,"y":30,"z":22,"initial_energy":100,"residual_energy":100},
+    {"id":6,"x":145,"y":50,"z":16,"initial_energy":100,"residual_energy":100},
+
+    {"id":7,"x":30,"y":90,"z":20,"initial_energy":100,"residual_energy":100},
+    {"id":8,"x":60,"y":80,"z":25,"initial_energy":100,"residual_energy":100},
+    {"id":9,"x":90,"y":95,"z":18,"initial_energy":100,"residual_energy":100},
+    {"id":10,"x":120,"y":85,"z":28,"initial_energy":100,"residual_energy":100},
+    {"id":11,"x":150,"y":100,"z":20,"initial_energy":100,"residual_energy":100},
+    {"id":12,"x":180,"y":90,"z":24,"initial_energy":100,"residual_energy":100},
+
+    {"id":13,"x":40,"y":150,"z":35,"initial_energy":100,"residual_energy":100},
+    {"id":14,"x":70,"y":140,"z":30,"initial_energy":100,"residual_energy":100},
+    {"id":15,"x":100,"y":160,"z":40,"initial_energy":100,"residual_energy":100},
+    {"id":16,"x":130,"y":145,"z":32,"initial_energy":100,"residual_energy":100},
+    {"id":17,"x":160,"y":155,"z":38,"initial_energy":100,"residual_energy":100},
+    {"id":18,"x":190,"y":150,"z":34,"initial_energy":100,"residual_energy":100},
+
+    {"id":19,"x":35,"y":220,"z":45,"initial_energy":100,"residual_energy":100},
+    {"id":20,"x":65,"y":210,"z":50,"initial_energy":100,"residual_energy":100},
+    {"id":21,"x":95,"y":225,"z":42,"initial_energy":100,"residual_energy":100},
+    {"id":22,"x":125,"y":215,"z":48,"initial_energy":100,"residual_energy":100},
+    {"id":23,"x":155,"y":230,"z":44,"initial_energy":100,"residual_energy":100},
+    {"id":24,"x":185,"y":220,"z":46,"initial_energy":100,"residual_energy":100},
+
+    {"id":25,"x":60,"y":270,"z":60,"initial_energy":100,"residual_energy":100},
+    {"id":26,"x":100,"y":260,"z":55,"initial_energy":100,"residual_energy":100},
+    {"id":27,"x":140,"y":280,"z":62,"initial_energy":100,"residual_energy":100},
+    {"id":28,"x":180,"y":265,"z":58,"initial_energy":100,"residual_energy":100},
+    {"id":29,"x":220,"y":275,"z":65,"initial_energy":100,"residual_energy":100},
+    {"id":30,"x":260,"y":250,"z":60,"initial_energy":100,"residual_energy":100}
+]

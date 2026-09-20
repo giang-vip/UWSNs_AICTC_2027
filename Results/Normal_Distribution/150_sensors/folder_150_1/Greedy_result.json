@@ -1,0 +1,13 @@
+{
+    "filename": "150_1.json",
+    "algorithm": "Greedy",
+    "initial_nodes": 150,
+    "cycles_completed": 1015,
+    "final_alive_nodes": 15,
+    "final_alive_ratio": 0.1,
+    "total_energy_consumed": 149692.6106,
+    "total_packets_expected": 12026600,
+    "total_packets_delivered": 12024900,
+    "overall_pdr": 0.999859,
+    "cycle_log_file": "Greedy_cycle_log.jsonl"
+}

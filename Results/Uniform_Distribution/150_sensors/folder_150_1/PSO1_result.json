@@ -1,0 +1,13 @@
+{
+    "filename": "150_1.json",
+    "algorithm": "PSO1",
+    "initial_nodes": 150,
+    "cycles_completed": 464,
+    "final_alive_nodes": 15,
+    "final_alive_ratio": 0.1,
+    "total_energy_consumed": 149940.78,
+    "total_packets_expected": 4184900,
+    "total_packets_delivered": 4183500,
+    "overall_pdr": 0.999665,
+    "cycle_log_file": "PSO1_cycle_log.jsonl"
+}

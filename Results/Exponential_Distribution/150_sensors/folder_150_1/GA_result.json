@@ -1,0 +1,13 @@
+{
+    "filename": "150_1.json",
+    "algorithm": "GA",
+    "initial_nodes": 150,
+    "cycles_completed": 2851,
+    "final_alive_nodes": 15,
+    "final_alive_ratio": 0.1,
+    "total_energy_consumed": 149323.0198,
+    "total_packets_expected": 36399800,
+    "total_packets_delivered": 36395100,
+    "overall_pdr": 0.999871,
+    "cycle_log_file": "GA_cycle_log.jsonl"
+}

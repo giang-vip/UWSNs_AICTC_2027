@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "x": 313,
+        "y": 325,
+        "z": 288,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 2,
+        "x": 262,
+        "y": 109,
+        "z": 31,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 3,
+        "x": 275,
+        "y": 53,
+        "z": 120,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 4,
+        "x": 205,
+        "y": 173,
+        "z": 154,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 5,
+        "x": 142,
+        "y": 301,
+        "z": 255,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 6,
+        "x": 274,
+        "y": 141,
+        "z": 383,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 7,
+        "x": 345,
+        "y": 188,
+        "z": 121,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 8,
+        "x": 271,
+        "y": 96,
+        "z": 42,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 9,
+        "x": 372,
+        "y": 226,
+        "z": 342,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 10,
+        "x": 286,
+        "y": 149,
+        "z": 117,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 11,
+        "x": 184,
+        "y": 85,
+        "z": 286,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 12,
+        "x": 143,
+        "y": 215,
+        "z": 338,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 13,
+        "x": 194,
+        "y": 314,
+        "z": 292,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 14,
+        "x": 38,
+        "y": 231,
+        "z": 106,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 15,
+        "x": 155,
+        "y": 265,
+        "z": 79,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 16,
+        "x": 310,
+        "y": 29,
+        "z": 367,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 17,
+        "x": 41,
+        "y": 25,
+        "z": 91,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 18,
+        "x": 74,
+        "y": 202,
+        "z": 69,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 19,
+        "x": 104,
+        "y": 354,
+        "z": 211,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 20,
+        "x": 305,
+        "y": 272,
+        "z": 289,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 21,
+        "x": 84,
+        "y": 363,
+        "z": 45,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 22,
+        "x": 30,
+        "y": 324,
+        "z": 339,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 23,
+        "x": 329,
+        "y": 287,
+        "z": 207,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 24,
+        "x": 18,
+        "y": 85,
+        "z": 340,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 25,
+        "x": 30,
+        "y": 224,
+        "z": 293,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 26,
+        "x": 303,
+        "y": 326,
+        "z": 74,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 27,
+        "x": 270,
+        "y": 265,
+        "z": 34,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 28,
+        "x": 213,
+        "y": 170,
+        "z": 28,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 29,
+        "x": 301,
+        "y": 133,
+        "z": 82,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 30,
+        "x": 378,
+        "y": 85,
+        "z": 270,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 31,
+        "x": 111,
+        "y": 313,
+        "z": 192,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 32,
+        "x": 331,
+        "y": 303,
+        "z": 380,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 33,
+        "x": 77,
+        "y": 251,
+        "z": 267,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 34,
+        "x": 314,
+        "y": 244,
+        "z": 34,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 35,
+        "x": 271,
+        "y": 54,
+        "z": 293,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 36,
+        "x": 365,
+        "y": 248,
+        "z": 191,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 37,
+        "x": 335,
+        "y": 107,
+        "z": 92,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 38,
+        "x": 275,
+        "y": 273,
+        "z": 37,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 39,
+        "x": 164,
+        "y": 237,
+        "z": 112,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 40,
+        "x": 277,
+        "y": 207,
+        "z": 372,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 41,
+        "x": 129,
+        "y": 59,
+        "z": 138,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 42,
+        "x": 199,
+        "y": 173,
+        "z": 171,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 43,
+        "x": 91,
+        "y": 259,
+        "z": 115,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 44,
+        "x": 90,
+        "y": 218,
+        "z": 39,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    },
+    {
+        "id": 45,
+        "x": 134,
+        "y": 11,
+        "z": 210,
+        "initial_energy": 100.0,
+        "residual_energy": 100.0
+    }
+]

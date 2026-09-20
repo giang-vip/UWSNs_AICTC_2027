@@ -1,0 +1,13 @@
+{
+    "filename": "150_1.json",
+    "algorithm": "ACO",
+    "initial_nodes": 150,
+    "cycles_completed": 1093,
+    "final_alive_nodes": 15,
+    "final_alive_ratio": 0.1,
+    "total_energy_consumed": 149863.1257,
+    "total_packets_expected": 9487700,
+    "total_packets_delivered": 9485400,
+    "overall_pdr": 0.999758,
+    "cycle_log_file": "ACO_cycle_log.jsonl"
+}

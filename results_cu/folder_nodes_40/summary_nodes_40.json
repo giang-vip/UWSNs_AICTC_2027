@@ -1,0 +1,80 @@
+{
+    "PSO": {
+        "filename": "nodes_40.json",
+        "algorithm": "PSO",
+        "initial_nodes": 40,
+        "cycles_completed": 368,
+        "final_alive_nodes": 0,
+        "final_alive_ratio": 0.0,
+        "total_energy_consumed": 4000.0,
+        "total_packets_expected": 169600,
+        "total_packets_delivered": 169500,
+        "overall_pdr": 0.99941,
+        "cycle_log_file": "PSO_cycle_log.jsonl"
+    },
+    "Greedy": {
+        "filename": "nodes_40.json",
+        "algorithm": "Greedy",
+        "initial_nodes": 40,
+        "cycles_completed": 308,
+        "final_alive_nodes": 0,
+        "final_alive_ratio": 0.0,
+        "total_energy_consumed": 4000.0,
+        "total_packets_expected": 144100,
+        "total_packets_delivered": 144100,
+        "overall_pdr": 1.0,
+        "cycle_log_file": "Greedy_cycle_log.jsonl"
+    },
+    "GA": {
+        "filename": "nodes_40.json",
+        "algorithm": "GA",
+        "initial_nodes": 40,
+        "cycles_completed": 544,
+        "final_alive_nodes": 0,
+        "final_alive_ratio": 0.0,
+        "total_energy_consumed": 4000.0,
+        "total_packets_expected": 241100,
+        "total_packets_delivered": 241100,
+        "overall_pdr": 1.0,
+        "cycle_log_file": "GA_cycle_log.jsonl"
+    },
+    "PSO1": {
+        "filename": "nodes_40.json",
+        "algorithm": "PSO1",
+        "initial_nodes": 40,
+        "cycles_completed": 373,
+        "final_alive_nodes": 0,
+        "final_alive_ratio": 0.0,
+        "total_energy_consumed": 4000.0,
+        "total_packets_expected": 171800,
+        "total_packets_delivered": 171800,
+        "overall_pdr": 1.0,
+        "cycle_log_file": "PSO1_cycle_log.jsonl"
+    },
+    "PSO2": {
+        "filename": "nodes_40.json",
+        "algorithm": "PSO2",
+        "initial_nodes": 40,
+        "cycles_completed": 374,
+        "final_alive_nodes": 0,
+        "final_alive_ratio": 0.0,
+        "total_energy_consumed": 4000.0,
+        "total_packets_expected": 171800,
+        "total_packets_delivered": 171800,
+        "overall_pdr": 1.0,
+        "cycle_log_file": "PSO2_cycle_log.jsonl"
+    },
+    "ACO": {
+        "filename": "nodes_40.json",
+        "algorithm": "ACO",
+        "initial_nodes": 40,
+        "cycles_completed": 690,
+        "final_alive_nodes": 0,
+        "final_alive_ratio": 0.0,
+        "total_energy_consumed": 4000.0,
+        "total_packets_expected": 298100,
+        "total_packets_delivered": 298000,
+        "overall_pdr": 0.999665,
+        "cycle_log_file": "ACO_cycle_log.jsonl"
+    }
+}
