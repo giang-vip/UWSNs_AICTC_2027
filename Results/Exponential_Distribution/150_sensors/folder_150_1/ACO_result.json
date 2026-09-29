@@ -5,9 +5,9 @@
     "cycles_completed": 2918,
     "final_alive_nodes": 15,
     "final_alive_ratio": 0.1,
-    "total_energy_consumed": 149304.8849,
-    "total_packets_expected": 37234900,
-    "total_packets_delivered": 37230300,
-    "overall_pdr": 0.999876,
+    "total_energy_consumed": 149303.3123,
+    "total_packets_expected": 37239000,
+    "total_packets_delivered": 37234500,
+    "overall_pdr": 0.999879,
     "cycle_log_file": "ACO_cycle_log.jsonl"
 }

@@ -46,6 +46,6 @@ CH_DR_I = 10000           # Data rate CH -> AUV
 CH_E_AGG = 5e-9           # J/bit (aggregation)
 
 # ---- Danh sách thuật toán ----
-ALGORITHMS = ["PSO", "Greedy", "GA", "PSO1", "PSO2", "ACO", "PSO3"]
+ALGORITHMS = ["ACO", "Greedy", "GA"]
 
 

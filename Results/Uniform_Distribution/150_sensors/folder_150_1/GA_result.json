@@ -2,12 +2,12 @@
     "filename": "150_1.json",
     "algorithm": "GA",
     "initial_nodes": 150,
-    "cycles_completed": 684,
+    "cycles_completed": 682,
     "final_alive_nodes": 15,
     "final_alive_ratio": 0.1,
-    "total_energy_consumed": 149913.5754,
-    "total_packets_expected": 6034300,
-    "total_packets_delivered": 6032700,
-    "overall_pdr": 0.999735,
+    "total_energy_consumed": 149913.6945,
+    "total_packets_expected": 6016300,
+    "total_packets_delivered": 6015300,
+    "overall_pdr": 0.999834,
     "cycle_log_file": "GA_cycle_log.jsonl"
 }

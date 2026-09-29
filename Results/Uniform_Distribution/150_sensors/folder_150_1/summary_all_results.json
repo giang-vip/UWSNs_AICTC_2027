@@ -1,27 +1,23 @@
 {
     "algorithms": [
-        "PSO",
-        "Greedy",
-        "GA",
-        "PSO1",
-        "PSO2",
         "ACO",
-        "PSO3"
+        "Greedy",
+        "GA"
     ],
     "detailed_results": {
-        "PSO": {
+        "ACO": {
             "150_1.json": {
                 "filename": "150_1.json",
-                "algorithm": "PSO",
+                "algorithm": "ACO",
                 "initial_nodes": 150,
-                "cycles_completed": 458,
-                "final_alive_nodes": 14,
-                "final_alive_ratio": 0.0933,
-                "total_energy_consumed": 149943.1569,
-                "total_packets_expected": 4130500,
-                "total_packets_delivered": 4129000,
-                "overall_pdr": 0.999637,
-                "cycle_log_file": "PSO_cycle_log.jsonl"
+                "cycles_completed": 1093,
+                "final_alive_nodes": 15,
+                "final_alive_ratio": 0.1,
+                "total_energy_consumed": 149864.9921,
+                "total_packets_expected": 9485000,
+                "total_packets_delivered": 9483000,
+                "overall_pdr": 0.999789,
+                "cycle_log_file": "ACO_cycle_log.jsonl"
             }
         },
         "Greedy": {
@@ -44,74 +40,14 @@
                 "filename": "150_1.json",
                 "algorithm": "GA",
                 "initial_nodes": 150,
-                "cycles_completed": 684,
+                "cycles_completed": 682,
                 "final_alive_nodes": 15,
                 "final_alive_ratio": 0.1,
-                "total_energy_consumed": 149913.5754,
-                "total_packets_expected": 6034300,
-                "total_packets_delivered": 6032700,
-                "overall_pdr": 0.999735,
+                "total_energy_consumed": 149913.6945,
+                "total_packets_expected": 6016300,
+                "total_packets_delivered": 6015300,
+                "overall_pdr": 0.999834,
                 "cycle_log_file": "GA_cycle_log.jsonl"
-            }
-        },
-        "PSO1": {
-            "150_1.json": {
-                "filename": "150_1.json",
-                "algorithm": "PSO1",
-                "initial_nodes": 150,
-                "cycles_completed": 464,
-                "final_alive_nodes": 15,
-                "final_alive_ratio": 0.1,
-                "total_energy_consumed": 149940.78,
-                "total_packets_expected": 4184900,
-                "total_packets_delivered": 4183500,
-                "overall_pdr": 0.999665,
-                "cycle_log_file": "PSO1_cycle_log.jsonl"
-            }
-        },
-        "PSO2": {
-            "150_1.json": {
-                "filename": "150_1.json",
-                "algorithm": "PSO2",
-                "initial_nodes": 150,
-                "cycles_completed": 467,
-                "final_alive_nodes": 9,
-                "final_alive_ratio": 0.06,
-                "total_energy_consumed": 149944.8317,
-                "total_packets_expected": 4205100,
-                "total_packets_delivered": 4203900,
-                "overall_pdr": 0.999715,
-                "cycle_log_file": "PSO2_cycle_log.jsonl"
-            }
-        },
-        "ACO": {
-            "150_1.json": {
-                "filename": "150_1.json",
-                "algorithm": "ACO",
-                "initial_nodes": 150,
-                "cycles_completed": 1093,
-                "final_alive_nodes": 15,
-                "final_alive_ratio": 0.1,
-                "total_energy_consumed": 149863.1257,
-                "total_packets_expected": 9487700,
-                "total_packets_delivered": 9485400,
-                "overall_pdr": 0.999758,
-                "cycle_log_file": "ACO_cycle_log.jsonl"
-            }
-        },
-        "PSO3": {
-            "150_1.json": {
-                "filename": "150_1.json",
-                "algorithm": "PSO3",
-                "initial_nodes": 150,
-                "cycles_completed": 1135,
-                "final_alive_nodes": 15,
-                "final_alive_ratio": 0.1,
-                "total_energy_consumed": 149857.9004,
-                "total_packets_expected": 9839300,
-                "total_packets_delivered": 9837600,
-                "overall_pdr": 0.999827,
-                "cycle_log_file": "PSO3_cycle_log.jsonl"
             }
         }
     }
